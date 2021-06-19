@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Manama Bahrain
-tags: example-tag
+tags: Manama
 meetup-group: owasp-manama
 region: Asia
 
