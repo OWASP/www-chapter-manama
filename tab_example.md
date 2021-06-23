@@ -1,11 +1,11 @@
 ---
-title: Example
+title: Upcoming Meeting
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: meeting-tag
 ---
 
-## Example
+## Upcoming Meetings
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+All upcoming meeting details will be publish here.

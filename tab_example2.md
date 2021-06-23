@@ -1,11 +1,11 @@
 ---
-title: Example
+title: Past Meetings
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: past-tag
 ---
 
-## Example
+## Past Meetings
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+All past meeting details will be publish here.
