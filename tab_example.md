@@ -1,5 +1,5 @@
 ---
-title: Upcoming Meetings
+title: "Upcoming Meetings"
 layout:  null
 tab: true
 order: 1
