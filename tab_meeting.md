@@ -1,5 +1,5 @@
 ---
-title: Meeting
+title: Past Meeting
 layout:  null
 tab: true
 order: 1
