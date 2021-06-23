@@ -7,6 +7,6 @@ order: 1
 tags: manama
 ---
 
-## Past Events
+## Past Meetings and Events
 
 All past meetings and event details will be publish here.
