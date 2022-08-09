@@ -15,7 +15,7 @@ Welcome to the OWASP Manama chapter Kingdom of Bahrain homepage. This chapter ha
 
 TBC Everyone is welcome to join us at our chapter meetings.
 
-The date for our next meeting will be announced on regular intervals.
+All our meetings can be found in our meetup page.  https://www.meetup.com/owasp-manama/ 
 
 If you have any recommendations for speakers, venues or potential sponsors, please contact the Chapter Leaders.
 
